@@ -1,0 +1,32 @@
+﻿ .heading 
+ { 
+     height:100px; 
+     background: red; 
+     padding: 20px; 
+     text-align: center; 
+ } 
+ .Navigation{ 
+     height:50px; 
+     background-color:darkgreen;
+  }
+ .content 
+ { 
+     min-height: 60%; 
+     background:white; 
+     width: 400px; 
+     float: left; 
+ } 
+ .Sidebar{ 
+     width: 30%; 
+     float: right; 
+     background: lightblue; 
+     min-height: 400px; 
+ } 
+ .footer{ 
+     clear: both; 
+     background: black; 
+     height: 40px; 
+     color: white; 
+     padding: 10px; 
+     text-align: center; 
+ } 
